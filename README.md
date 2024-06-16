@@ -1,6 +1,6 @@
-# Catalog-Intelligence-ML-
+# Catalog-Intelligence-ML
 
-Welcome to the **Data Integration and Processing Script**! This repository contains a comprehensive suite of Python scripts and Jupyter Notebooks designed to demonstrate core concepts of **Machine Learning**, **Database Management (SQL)**, **Data Engineering**, **Data Processing Models**, and **Data and Systems Integration**. This project also focuses on developing tools for attribute enrichment and price analysis.
+Welcome to the **Catalog-Intelligence-ML**! This repository contains a comprehensive suite of Python scripts and Jupyter Notebooks designed to demonstrate core concepts of **Machine Learning**, **Database Management (SQL)**, **Data Engineering**, **Data Processing Models**, and **Data and Systems Integration**. This project also focuses on developing tools for attribute enrichment and price analysis.
 
 ## Overview
 
